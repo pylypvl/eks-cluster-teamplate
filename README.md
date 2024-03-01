@@ -1,1 +1,1 @@
-# eks-cluster-teamplate
+# eks-cluster-template
